@@ -1,0 +1,43 @@
+{
+    "city":[
+        {
+            "_id" : 1,
+            "cityName" : "Delhi",
+            "city-code"  : 1,
+            "country" : "India"
+        },
+        {
+            "_id" : 2,
+            "cityName" : "bb",
+            "city-code"  : 2,
+            "country" : "bbb"
+        },
+        {
+            "_id" : 3,
+            "cityName" : "cc",
+            "city-code"  : 3,
+            "country" : "ccc"
+        },
+        {
+            "_id" : 4,
+            "cityName" : "dd",
+            "city-code"  : 4,
+            "country" : "ddd"
+        }
+    ],
+    "Category" :[
+        {
+            "_id":1,
+            "cat":"Movies"
+        },
+        {
+            "_id":2,
+            "cat":"songs"
+        },
+        {
+            "_id":3,
+            "cat":"video"
+        }
+
+    ]
+}
